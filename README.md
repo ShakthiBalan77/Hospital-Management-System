@@ -127,8 +127,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-# Result
-Thus the Hospital management system project was executed and the output was verified.
+
 
 
 
